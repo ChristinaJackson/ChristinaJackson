@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ChristinaJackson&show_icons=true&theme=tokyonight)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ChristinaJackson&layout=compact&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChristinaJackson&layout=compact&show_icons=true&theme=tokyonight)
 
 <!--
