@@ -1,7 +1,8 @@
 ### Well hello there 👋
-![](https://komarev.com/ghpvc/?username=ChristinaJackson&color=blueviolet)
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ChristinaJackson&layout=compact&show_icons=true&theme=tokyonight&hide=stars,contribs)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChristinaJackson&layout=compact&show_icons=true&theme=tokyonight)
+
+![](https://komarev.com/ghpvc/?username=ChristinaJackson&color=blueviolet)
 
 <!--
 **ChristinaJackson/ChristinaJackson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
