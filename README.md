@@ -5,7 +5,7 @@
 I'm a Chiropractor gone software developer. I found software development while working to improve the website for my practice. I fell in love with development and haven't looked back since. I love creating solutions to problems, taking deep dives into the how/why things work, and continuously improving my skills. In my spare time you can find me drinking coffee, exploring Oregon, or learning something new.
 
 ### Skills
-JavaScript developer with a strong focus on design, web accessibility and JAM(JavaScript, API’s and Markup) Stack applications utilizing serverless technologies such as AWS and Google Cloud. I also have some experience with React, Node.js and Python. 
+JavaScript developer with a strong focus on design, web accessibility and JAM Stack applications utilizing serverless technologies such as AWS and Google Cloud. I also have some experience with React, Node.js and Python. 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ChristinaJackson&layout=compact&show_icons=true&theme=tokyonight&hide=stars,contribs)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChristinaJackson&layout=compact&show_icons=true&theme=tokyonight)
