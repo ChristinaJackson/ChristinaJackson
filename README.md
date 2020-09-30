@@ -1,6 +1,6 @@
 ### Well hello there 👋
 
-### I'm Christina
+### I'm Christina(she/her)
 
 I'm a Chiropractor gone software developer. I found software development while working to improve the website for my chiropractic practice. I fell in love with development and haven't looked back. I love creating solutions to problems, taking deep dives into the how/why things work, and continuously improving my skills. In my spare time you can find me drinking coffee, exploring Oregon, or learning something new.
 
