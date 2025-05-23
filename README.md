@@ -2,7 +2,7 @@
 
 ### I'm Christina(she/her)
 
-I found software development while working to improve the website for my chiropractic practice. I fell in love with development and haven't looked back. I enjoy working on a variety of projects - from developing tools for chiropractors to experimenting with security concepts through code demos. In my spare time, you can find me enjoying a great cup of coffee, exploring Oregon, diving into a good book, or learning something new.
+I found software development while working to improve the website for my chiropractic practice. I fell in love with development and haven't looked back. I enjoy working on a variety of projects - from developing tools for chiropractors to experimenting with security concepts through code demos. In my spare time, you can find me enjoying a great cup of coffee, exploring Nature, diving into a good book, or learning something new.
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ChristinaJackson&layout=compact&show_icons=true&theme=tokyonight&hide=stars,contribs)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChristinaJackson&layout=compact&show_icons=true&theme=tokyonight)
